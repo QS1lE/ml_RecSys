@@ -1,7 +1,8 @@
 # ml_RecSys
 ml Recomandation System
-lab_1 Random\Popular
-lab_2 ItemKNN\UserKNN
-lab_3 ALS
-lab_4 LightFM (Rectools)
+lab1 Random\Popular\Top Popular
+lab2 ItemKNN\UserKNN
+lab3 ALS
+lab4 LightFM (Rectools)
+lab5 Sequential_models
 
